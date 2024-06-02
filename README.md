@@ -1,3 +1,5 @@
-RNA e Deep Learning - CESAR School 2023.02
-Nome: Matheus Antônio Barreto de Abreu
-Email: Maba@cesar.school
+# *RNA e Deep Learning - CESAR School 2023.02*
+
+##  Nome: Matheus Antônio Barreto de Abreu
+
+##  Email: Maba@cesar.school
